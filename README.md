@@ -22,12 +22,6 @@ The application is designed for analysts, students, and business users who want 
 
 ## Screenshots
 
-### Home Page
-
-![Home Page](YOUR_IMAGE_LINK_HERE)
-
----
-
 ### Dataset Upload
 
 ![Upload Dataset](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/01fafac4102a685efb0713c9a96965fadefdb02c/AI_Data_Analytics_Copilot/Screenshots/Upload%20dataset.png)
