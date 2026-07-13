@@ -1,3 +1,5 @@
+
+**Live Application:**(https://ai-data-analytics-copilot-kailashh.streamlit.app/)
 # AI Data Analytics Copilot
 
 AI Data Analytics Copilot is an intelligent data analysis application built with Streamlit that helps users analyze CSV and Excel datasets with minimal effort. It automates data profiling, exploratory data analysis, dashboard creation, AI-powered insights, DAX generation, and natural language interaction with datasets.
