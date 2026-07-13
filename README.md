@@ -53,31 +53,36 @@ The application is designed for analysts, students, and business users who want 
 
 ### Smart Dashboard
 
-![Dashboard](YOUR_IMAGE_LINK_HERE)
+![Dashboard](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/1346df0be1f160a9e03a1a648ae58081b7659bcc/AI_Data_Analytics_Copilot/Screenshots/Dashboard.png)
+
+
+### Smart Dashboard 2
+
+![Dashboard](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/1346df0be1f160a9e03a1a648ae58081b7659bcc/AI_Data_Analytics_Copilot/Screenshots/Dashboard%202.png)
 
 ---
 
 ### AI DAX Generator
 
-![DAX Generator](YOUR_IMAGE_LINK_HERE)
+![DAX Generator](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/1346df0be1f160a9e03a1a648ae58081b7659bcc/AI_Data_Analytics_Copilot/Screenshots/Dax%20Generate.png)
 
 ---
 
 ### AI Business Insights
 
-![Business Insights](YOUR_IMAGE_LINK_HERE)
+![Business Insights](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/1346df0be1f160a9e03a1a648ae58081b7659bcc/AI_Data_Analytics_Copilot/Screenshots/Insights.png)
 
 ---
 
 ### AI Chatbot
 
-![Chatbot](YOUR_IMAGE_LINK_HERE)
+![Chatbot](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/1346df0be1f160a9e03a1a648ae58081b7659bcc/AI_Data_Analytics_Copilot/Screenshots/Chatbot.png)
 
 ---
 
 ### PDF Report
 
-![PDF Report](YOUR_IMAGE_LINK_HERE)
+![PDF Report](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/1346df0be1f160a9e03a1a648ae58081b7659bcc/AI_Data_Analytics_Copilot/Screenshots/Summary%20in%20pdf.png)
 
 ---
 
