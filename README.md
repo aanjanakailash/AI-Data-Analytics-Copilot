@@ -30,19 +30,24 @@ The application is designed for analysts, students, and business users who want 
 
 ### Dataset Upload
 
-![Upload Dataset](YOUR_IMAGE_LINK_HERE)
+![Upload Dataset](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/01fafac4102a685efb0713c9a96965fadefdb02c/AI_Data_Analytics_Copilot/Screenshots/Upload%20dataset.png)
 
 ---
 
 ### Data Cleaning
 
-![Data Cleaning](YOUR_IMAGE_LINK_HERE)
+![Data Cleaning](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/01fafac4102a685efb0713c9a96965fadefdb02c/AI_Data_Analytics_Copilot/Screenshots/Data%20clening.png)
 
 ---
 
-### Dataset Profiling
+### Dataset Profiling 1
 
-![Dataset Profiling](YOUR_IMAGE_LINK_HERE)
+![Dataset Profiling](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/01fafac4102a685efb0713c9a96965fadefdb02c/AI_Data_Analytics_Copilot/Screenshots/Data%20Profiling.png)
+
+
+### Dataset Profiling 2
+
+![Dataset Profiling](https://github.com/aanjanakailash/AI-Data-Analytics-Copilot/blob/01fafac4102a685efb0713c9a96965fadefdb02c/AI_Data_Analytics_Copilot/Screenshots/Data%20Profiling%202.png)
 
 ---
 
