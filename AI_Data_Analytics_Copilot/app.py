@@ -11,6 +11,8 @@ from agents.dashboard_agent import DashboardAgent
 from agents.dax_agent import DAXAgent
 from agents.insight_agent import InsightAgent
 from agents.chat_agent import ChatAgent
+from services.kpi_service import KPIService
+from services.kpi_service import KPIService
 
 # ============================
 # Components
@@ -535,7 +537,59 @@ with st.container(border=True):
 
 with st.container(border=True):
     section_title("📊", "Smart Dashboard")
-    show_dashboard(clean_df, profile)
+
+    # --------------------------
+    # Generate KPI
+    # --------------------------
+
+    kpi_service = KPIService()
+
+    kpis = kpi_service.generate(clean_df)
+
+    # --------------------------
+    # KPI Cards
+    # --------------------------
+
+    st.subheader(" Key Performance Indicators")
+
+    items = list(kpis.items())
+
+    for i in range(0, len(items), 4):
+
+            cols = st.columns(4)
+
+            for j in range(4):
+
+                if i + j < len(items):
+
+                    title, value = items[i + j]
+
+                    cols[j].markdown(f"""
+                    <div style="
+                        background: linear-gradient(135deg,#2563eb,#7c3aed);
+                        border-radius:15px;
+                        padding:20px;
+                        text-align:center;
+                        color:white;
+                        box-shadow:0 4px 12px rgba(0,0,0,0.2);
+                        margin-bottom:15px;
+                    ">
+                        <h5 style="margin:0;">{title}</h5>
+                        <h2 style="margin-top:10px;">{value}</h2>
+                    </div>
+                    """, unsafe_allow_html=True)
+
+    st.divider()
+
+    # --------------------------
+    # Dashboard Charts
+    # --------------------------
+
+    show_dashboard(
+        clean_df,
+        profile
+    )
+    
 
 # ============================
 # Dashboard Plan (Optional)
